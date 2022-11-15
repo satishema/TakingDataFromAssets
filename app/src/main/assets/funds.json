@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "bankLogo": "ICIC.gif",
+      "bankName": "ICICI Bank",
+      "accountNumber": "0784",
+      "orderId": "order_KehT3JHLLYt1oZ",
+      "date": "1668162814",
+      "paymentMethod": "netbanking",
+      "depositAmount": 12345,
+      "transactionStatus": "success"
+    },
+    {
+      "bankLogo": "ICIC.gif",
+      "bankName": "ICICI Bank",
+      "accountNumber": "0784",
+      "orderId": "order_KehT3JHLLYt1oZ",
+      "date": 1668162815,
+      "paymentMethod": "netbanking",
+      "depositAmount": 12344,
+      "transactionStatus": "success"
+    },
+    {
+      "bankLogo": "ICIC.gif",
+      "bankName": "ICICI Bank",
+      "accountNumber": "0784",
+      "orderId": "order_Kd7V5FzlXBdQSq",
+      "date": 1667817811,
+      "paymentMethod": "netbanking",
+      "depositAmount": 100000,
+      "transactionStatus": "failure"
+    },
+    {
+      "bankLogo": "ICIC.gif",
+      "bankName": "ICICI Bank",
+      "accountNumber": "0784",
+      "orderId": "order_KbYLKeY40PYYvT",
+      "date": 1667475661,
+      "paymentMethod": "netbanking",
+      "depositAmount": 5031000,
+      "transactionStatus": "success"
+    },
+    {
+      "bankLogo": "ICIC.gif",
+      "bankName": "ICICI Bank",
+      "accountNumber": "0784",
+      "orderId": "order_KbYKyauoKgtIuc",
+      "date": 1667475641,
+      "paymentMethod": "netbanking",
+      "depositAmount": 5025000,
+      "transactionStatus": "success"
+    },
+    {
+      "bankLogo": "ICIC.gif",
+      "bankName": "ICICI Bank",
+      "accountNumber": "0784",
+      "orderId": "order_KbYIrlBtRokBrH",
+      "date": 1667475521,
+      "paymentMethod": "netbanking",
+      "depositAmount": 5020000,
+      "transactionStatus": "success"
+    },
+    {
+      "bankLogo": "ICIC.gif",
+      "bankName": "ICICI Bank",
+      "accountNumber": "0784",
+      "orderId": "order_KbY1pH4clYuLJD",
+      "date": 1667474553,
+      "paymentMethod": "netbanking",
+      "depositAmount": 5010000,
+      "transactionStatus": "success"
+    },
+    {
+      "bankLogo": "ICIC.gif",
+      "bankName": "ICICI Bank",
+      "accountNumber": "0784",
+      "orderId": "order_KbSfqvS5tBBY9O",
+      "date": 1667455697,
+      "paymentMethod": "netbanking",
+      "depositAmount": 91,
+      "transactionStatus": "success"
+    }
+  ]
+}
