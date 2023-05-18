@@ -5,7 +5,7 @@
       "bankName": "ICICI Bank",
       "accountNumber": "0784",
       "orderId": "order_KehT3JHLLYt1oZ",
-      "date": "1668162814",
+      "date": 1668162814,
       "paymentMethod": "netbanking",
       "depositAmount": 12345,
       "transactionStatus": "success"
